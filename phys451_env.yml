@@ -1,0 +1,8 @@
+name: phys451
+dependencies:
+  - python>=3.8
+  - numpy
+  - matplotlib
+  - jupyter
+  - ipykernel
+  - scipy
